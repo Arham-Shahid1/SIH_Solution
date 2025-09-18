@@ -50,7 +50,7 @@ An **automated test machine** with:
 
 ## 👥 Team  
 This project is built as part of **Smart India Hackathon 2025**.  
-Team Name: Team ElectroniX
+Team Name: **Team ElectroniX**
 
 ---
 
